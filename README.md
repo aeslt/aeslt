@@ -9,4 +9,4 @@
 
 
 <h2 align="center">My GitHub Starting Stats</h2>
-(https://github-readme-stats.vercel.app/api?username=aeslt)](https://github.com/aeslt/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=aeslt)](https://github.com/anuraghazra/github-readme-stats)
