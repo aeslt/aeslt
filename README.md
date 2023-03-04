@@ -1,4 +1,5 @@
 ### ⌨ Haelou! I am loueisa!
+## A College Student
 
 - 🍃 I’m currently studying Bachelor of Science in Computer Science (BSCS)
 - 📧 Reach me at louaeslt@gmail.com
