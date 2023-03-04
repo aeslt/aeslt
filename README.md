@@ -11,11 +11,11 @@
 <h2 align="center">My GitHub Starting Stats</h2>
 <picture>
   <source  
-          srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true&theme=tokyonight"
+          srcset="https://github-readme-stats.vercel.app/api?username=aeslt&hide_progress=true&theme=tokyonight"
           media="(prefers-color-scheme: dark)"
   />
   <source
-          srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-stats.vercel.app/api?username=aeslt&hide_progress=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
   <img src="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true" />
 </picture>
