@@ -10,17 +10,28 @@
 
 <h2 align="center">My GitHub Starting Stats</h2>
 <picture>
-<source  
-  srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true" />
+  <source  
+          srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true&theme=tokyonight"
+          media="(prefers-color-scheme: dark)"
+  />
+  <source
+          srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+  <img src="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact&theme=tokyonight"
+          media="(prefers-color-scheme: dark)"
+  />
+  <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />  
+  <img src="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true" />
+</picture>  
+
 
 <h2 align="center">Languages</h2>
 
