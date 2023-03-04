@@ -1,4 +1,4 @@
-### ⌨ Haelou there!
+### ⌨ Haelou! I am loueisa!
 
 - 🍃 I’m currently studying Bachelor of Science in Computer Science (BSCS)
 - 📧 Reach me at louaeslt@gmail.com
