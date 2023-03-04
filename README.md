@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/115735489/222916640-11aa3f5d-abf9-456f-b0b3-ab07a9126f5e.png)
+
 ## Helou! I am LouEiSa!
 ### A College Student
 
