@@ -6,3 +6,6 @@
 - 🍃 I’m currently studying Bachelor of Science in Computer Science (BSCS)
 - 📧 Reach me at louaeslt@gmail.com
 - 🌃 I'm fond of doing digital art, photography, and film as a hobby
+
+<h2 align="center">My GitHub Starting Stats</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true&theme=radical)
