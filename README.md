@@ -32,9 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact" />
 </picture>  
 
-
-<h2 align="center">Languages</h2>
-
 <h2 align="center">Connect With Me!</h2>
 <p align="center">
 <a href="https://github.com/aeslt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
