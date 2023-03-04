@@ -29,7 +29,7 @@
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&show_icons=true" />
 </picture>  
 
 
