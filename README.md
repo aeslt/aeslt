@@ -11,7 +11,7 @@
 <h2 align="center">My GitHub Starting Stats</h2>
 <picture align="center">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true&theme=onedark"
+  srcset="https://github-readme-stats.vercel.app/api?username=aeslt&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
