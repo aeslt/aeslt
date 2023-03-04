@@ -1,4 +1,4 @@
-## Haelou! I am loueisa!
+## Helou! I am LouEiSa!
 ### A College Student
 
 - 🍃 I’m currently studying Bachelor of Science in Computer Science (BSCS)
