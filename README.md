@@ -3,7 +3,7 @@
 <h2 align="center">Helou! I am Loueisa</h2>
 <h3> A College Student</h3>
 
-- 🍃 I’m currently studying Bachelor of Science in Computer Science (BSCS) as a first-year student
+- 🍃 I’m currently in my first-year of studying Bachelor of Science in Computer Science (BSCS)
 - 📧 Reach me at louaeslt@gmail.com
 - 🌃 I'm fond of doing digital art, photography, and film as a hobby
 
