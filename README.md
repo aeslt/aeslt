@@ -8,6 +8,7 @@
 - 🌃 I'm fond of doing digital art, photography, and film as a hobby
 
 
+<! --
 <h2 align="center">My GitHub Starting Stats</h2>
 <picture>
   <source  
@@ -31,6 +32,7 @@
   />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeslt&layout=compact" />
 </picture>  
+-->
 
 <h2 align="center">Connect With Me!</h2>
 <p align="center">
