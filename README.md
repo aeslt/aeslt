@@ -8,7 +8,7 @@
 - 🌃 I'm fond of doing digital art, photography, and film as a hobby
 
 
-<! --
+<!--
 <h2 align="center">My GitHub Starting Stats</h2>
 <picture>
   <source  
