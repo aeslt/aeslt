@@ -1,3 +1,7 @@
+<p align="center">
+  <i>Refreshing my GitHub - updates en route...</i>
+</p>
+
 <h2 align="center">Hello! I am Loueisa</h2>
 <h3> A College Student</h3>
 
